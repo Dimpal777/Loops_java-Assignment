@@ -4,10 +4,7 @@ public class LargerNumber{
         double num2 = 20.3;
         double num3 = 15.8;
 
-        // Assuming num1 is the largest initially
         double largestNumber = num1;
-
-        // Check if num2 is larger than current largestNumber
         if (num2 > largestNumber) {
             largestNumber = num2;
         }
